@@ -1,4 +1,6 @@
 #3/1/2019
+## this code is converted from MATLAB code provided by the authers
+
  GreConD<-function( I, no_of_factors =NULL){#[ A, B ] 
 # % GRECOND implements GreConD algorithm for Boolean matrix factorization 
 
